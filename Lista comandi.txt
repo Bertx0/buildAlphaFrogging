@@ -1,0 +1,6 @@
+Lista comandi:
+- x/spazio: salto
+- cerchio/ctrl: dash
+- quadrato/E/left click: attacco (se premuti con un determinato timing c'è la combo)
+- l1/shift: corsa
+- giù + attacco / s + più attacco: attacco speciale
